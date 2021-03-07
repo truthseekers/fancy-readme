@@ -10,4 +10,4 @@
 - SQL & Mongo
 - and a bunch of other stuff! Literally anything tech.
 
-## Get our latest tutorials, Course Updates, & more by signing up for our newsletter!(https://truthseekers.io/latest-tutorials-signup/)
+## [Get our latest tutorials, Course Updates, & more with our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
