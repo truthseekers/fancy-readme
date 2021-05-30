@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://truthseekers.io/wp-content/uploads/2021/05/ts-logo-dark-horizontal-1-1.jpg)
 
 ## [Please support our YouTube channel by Subscribing! Ctrl+Click to open in new tab!](https://www.youtube.com/channel/UCa0s8d-23qP7RmIMZ54x7Ug)
 
