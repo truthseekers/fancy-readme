@@ -7,5 +7,3 @@
 Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Literally anything tech.
 
 ## [Join our community by signing up for our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
-
-Ou
